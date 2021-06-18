@@ -8,11 +8,11 @@ titles_from_headings:
 
 # Modify the contents below for the specific project.
 
-title: "Capstone Project Proposal"       # Write the project title inside the quotes.
-description: "Trust me, it'll be cool!"  # Write the project description inside the quotes
-author:                                  # Don't do anything with this line!
-  name: "Java+Android Student"           # Write your name inside the quotes.
+title: "Send me a picture: "Images sent by request from an Art museum to an art lover"  # Write the project description inside the quotes
+author: Kelley Bonneville                                 # Don't do anything with this line!
+  name: "Send me a Picture"           # Write your name inside the quotes.
 
-# Do not modify the following line!
-  copyright: true  
+# Do not modify the following line!"       # Write the project title inside the quotes.
+  #descript
+  copyright: Summer 2021
 theme: jekyll-theme-minimal
